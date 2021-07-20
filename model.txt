@@ -1,0 +1,30 @@
+//user get api
+-email
+-password
+-first name
+-last name
+-phone
+-blood group
+-distric
+-upojila
+-facebook
+-description of blood
+
+//user post api
+-email
+-first name
+-last name
+-blood group
+-distric
+-upojila
+
+//user put api
+-email
+-first name
+-last name
+-phone
+-blood group
+-distric
+-upojila
+-facebook
+-description of blood

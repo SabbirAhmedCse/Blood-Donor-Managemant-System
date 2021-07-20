@@ -1,0 +1,17 @@
+.users {
+  display: flex;
+  margin: 50px;
+  background-color: #fff;
+}
+.containeruser {
+  display: grid;
+  margin: 20px;
+  grid-template-columns: repeat(3, 2fr);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #e9ebec;
+  padding: 10px;
+}
